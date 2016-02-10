@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-simple-publish-subscribe",
+  "node": "5.0.0",
+  "author": "tkostantinov",
+  "dependencies": {
+    "express": "*",
+    "jade": "*",
+    "socket.io": "*"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
